@@ -1,0 +1,2 @@
+# If you are a designer and wanna make new template design, please use our figma template:
+https://www.figma.com/file/WGtrlFtTdaK0Z5da4Th2By/Econtent?type=design&node-id=0%3A1&mode=design&t=hoP8tPP8y8RECvzF-1
